@@ -84,15 +84,6 @@ I don't just write code. I think about **systems**, **user experiences**, and th
 
 ---
 
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 ## 📈 Currently
 
