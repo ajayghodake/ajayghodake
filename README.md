@@ -65,11 +65,8 @@ I don't just write code. I think about **systems**, **user experiences**, and th
 
 ---
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-![Coding](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Developer coding" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="480" alt="Developer coding" />
 </div>
 
 ---
