@@ -65,6 +65,10 @@ I don't just write code. I think about **systems**, **user experiences**, and th
 
 ---
 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
 <div align="center">
 
 *Thanks for visiting! Drop a ⭐ on something if it helped you.*
