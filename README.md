@@ -96,10 +96,9 @@ I don't just write code. I think about **systems**, **user experiences**, and th
 
 ## 📈 Currently
 
-- 🔭 **Building:** [your current project]
-- 🌱 **Learning:** [technology you're focused on right now]
-- 🎯 **2025 Goal:** Land my first developer role & contribute to open source
-- 💬 **Ask me about:** React, Node.js, or anything Full Stack
+- 🌱 **Learning:** Spring Boot — diving deep into the Java backend world
+- 🎯 **2026 Goal:** Land my first dev role & ship something the open source world actually uses
+- 💬 **Ask me about:** React, Node.js, or anything Full Stack — I love talking code
 
 ---
 
